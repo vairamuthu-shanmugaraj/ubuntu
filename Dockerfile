@@ -1,1 +1,1 @@
-FROM vairamuthushanmugaraj/ubuntu:12.04
+FROM vairamuthushanmugaraj/ubuntu:14.04
